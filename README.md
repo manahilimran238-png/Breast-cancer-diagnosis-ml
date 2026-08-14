@@ -76,7 +76,8 @@ The confusion matrix was:
 | Benign | 2 | 70 |
 
 Logistic Regression performed better on the held-out test set, achieving **97.4% accuracy** and **97.6% malignant recall**, compared with 95.6% accuracy and 92.9% malignant recall for Random Forest.
-<img width="623" height="544" alt="image" src="https://github.com/user-attachments/assets/cfa23384-ebac-4a35-9390-633c40d695d3" />
+<img width="664" height="561" alt="image" src="https://github.com/user-attachments/assets/30892209-9234-492b-9cc6-c1996c651518" />
+
 
 ## Feature Importance
 
